@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{85D2536E-B6C4-4E51-BA5B-07E45DDFA887}|Default">
+  <MonoDevelop.Ide.ItemProperties.EjercicioUno PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EjercicioUno/Program.cs">
+    <Files>
+      <File FileName="EjercicioUno/Program.cs" Line="68" Column="53" />
+      <File FileName="EjercicioUno/Juego.cs" Line="17" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,11 @@
+/Users/StanDeMoya/Documents/GitHub/ISC210Standmv/EjercicioUno/EjercicioUno/bin/Debug/netcoreapp2.1/EjercicioUno.deps.json
+/Users/StanDeMoya/Documents/GitHub/ISC210Standmv/EjercicioUno/EjercicioUno/bin/Debug/netcoreapp2.1/EjercicioUno.runtimeconfig.json
+/Users/StanDeMoya/Documents/GitHub/ISC210Standmv/EjercicioUno/EjercicioUno/bin/Debug/netcoreapp2.1/EjercicioUno.runtimeconfig.dev.json
+/Users/StanDeMoya/Documents/GitHub/ISC210Standmv/EjercicioUno/EjercicioUno/bin/Debug/netcoreapp2.1/EjercicioUno.dll
+/Users/StanDeMoya/Documents/GitHub/ISC210Standmv/EjercicioUno/EjercicioUno/bin/Debug/netcoreapp2.1/EjercicioUno.pdb
+/Users/StanDeMoya/Documents/GitHub/ISC210Standmv/EjercicioUno/EjercicioUno/obj/Debug/netcoreapp2.1/EjercicioUno.csprojAssemblyReference.cache
+/Users/StanDeMoya/Documents/GitHub/ISC210Standmv/EjercicioUno/EjercicioUno/obj/Debug/netcoreapp2.1/EjercicioUno.csproj.CoreCompileInputs.cache
+/Users/StanDeMoya/Documents/GitHub/ISC210Standmv/EjercicioUno/EjercicioUno/obj/Debug/netcoreapp2.1/EjercicioUno.AssemblyInfoInputs.cache
+/Users/StanDeMoya/Documents/GitHub/ISC210Standmv/EjercicioUno/EjercicioUno/obj/Debug/netcoreapp2.1/EjercicioUno.AssemblyInfo.cs
+/Users/StanDeMoya/Documents/GitHub/ISC210Standmv/EjercicioUno/EjercicioUno/obj/Debug/netcoreapp2.1/EjercicioUno.dll
+/Users/StanDeMoya/Documents/GitHub/ISC210Standmv/EjercicioUno/EjercicioUno/obj/Debug/netcoreapp2.1/EjercicioUno.pdb
