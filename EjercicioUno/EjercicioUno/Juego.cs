@@ -61,18 +61,32 @@ namespace EjercicioUno
                 //Verticales
                 if (i <= iMax && Tablero[i, c] == TurnoPrimerJugador)
                     consecutivo[1]++;
-                //diagonal 1
-                if (i<=iMax && j <= jMax && Tablero[i, j] == TurnoPrimerJugador)
-                    consecutivo[2]++;
-                //diagonal 1
-                if (i <= iMax && k>=kMin && Tablero[i, k] == TurnoPrimerJugador)
-                    consecutivo[3]++;
 
                 //Este metodo de recuperacion de datos es llamado LINQ, permite al programador leer datos desde el mismo codigo fuente
                 /*var linqTmp = (from contador in consecutivo
                                where contador == 4
                                select contador).Any();
                 return linqTmp;*/
+
+                if (consecutivo.Any(contador => contador == 4))
+                    return true;
+            }
+
+            for (i = iMin, j = jMin, k = kMax; i <= iMax || j <= jMax || k >= kMin; i++, j++, k--)
+            {
+                //diagonal 1
+                if (i <= iMax && j <= jMax && Tablero[i, j] == TurnoPrimerJugador)
+                    consecutivo[2]++;
+
+                if (consecutivo.Any(contador => contador == 4))
+                    return true;
+            }
+
+            for (i = iMin, j = jMin, k = kMax; i <= iMax || j <= jMax || k >= kMin; i++, j++, k--)
+            {
+                //diagonal 2
+                if (i <= iMax && k >= kMin && Tablero[i, k] == TurnoPrimerJugador)
+                    consecutivo[3]++;
 
                 if (consecutivo.Any(contador => contador == 4))
                     return true;
